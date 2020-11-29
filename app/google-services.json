@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "297263401007",
+    "firebase_url": "https://imgapp-dcea9.firebaseio.com",
+    "project_id": "imgapp-dcea9",
+    "storage_bucket": "imgapp-dcea9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297263401007:android:395f1a13b2de491ee95eda",
+        "android_client_info": {
+          "package_name": "com.example.imgapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297263401007-lbcil0o53os36chjj0f8mvgtov6doahl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imgapp",
+            "certificate_hash": "e6c2900462eebd583d89ac66a9ceb9eb2de52d64"
+          }
+        },
+        {
+          "client_id": "297263401007-3fotockgtak14h4507iudvcnqbk3tomt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIx_fZ3j2mdscHUN50NAqWWxlvJ3WYZAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297263401007-3fotockgtak14h4507iudvcnqbk3tomt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
